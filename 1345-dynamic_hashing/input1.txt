@@ -1,0 +1,16 @@
+put A0
+put B0
+get 0
+get 1
+get 5
+put C0
+get 0
+get 4
+get 8
+put A1
+put B1
+put C2
+put C3
+get 9
+put C1
+exit

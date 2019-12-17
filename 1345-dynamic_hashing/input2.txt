@@ -1,0 +1,13 @@
+put A0
+get 0
+put B0
+get 0
+put A1
+put B1
+get 1
+put C2
+put C3
+get 2
+get 3
+exit
+
