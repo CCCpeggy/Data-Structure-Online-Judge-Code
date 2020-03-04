@@ -17,7 +17,7 @@ Try to transform an infix expression into its prefix and postfix equivalent with
 An infix expression such as A*B/C.
 ```
 
-# Output
+## Output
 
 ```content
 The corresponding prefix and postfix expressions of the input infix. See the sample input and output below.
