@@ -94,3 +94,7 @@ No such value.
 50 24 12 14 34 29 37 71 
 14 12 29 37 34 24 71 50 
 ```
+
+---
+
+![sample input tree](./input1_tree.drawio.svg)
